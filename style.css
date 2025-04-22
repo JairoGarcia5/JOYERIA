@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 body{
+    background-image: url('fondo.avif');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
