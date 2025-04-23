@@ -3,11 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    height: 100vh;
+
 }
 /*computadora*/
 .barras{display: none;}
